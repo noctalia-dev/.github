@@ -40,13 +40,3 @@ If you’re looking for the actual quickshell setup, check out [**Noctalia**](ht
 | **greet** | `greetd` / quickshell based display manager. |
 | **theme** | Color schemes, wallpapers, icons, and UI styles. |d
 | **tools** | CLI tools, utilities, and setup scripts. |
-
----
-
-## Getting Started
-
-If you want to try Noctalia right now:
-
-```
-.......
-```
