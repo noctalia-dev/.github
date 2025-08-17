@@ -18,7 +18,7 @@
 It started as a simple personal config, but has grown into a collection of themes, tools, and components - all aiming for a clean look, smooth feel, and easy customization.
 
 This repository is the **central hub** for all Noctalia projects.  
-If you’re looking for the actual quickshell setup, check out [**noctalia/shell**](https://github.com/Noctalia-org/shell).
+If you’re looking for the actual quickshell setup, check out [**Noctalia**](https://github.com/Noctalia-dev/Noctalia).
 
 ---
 
