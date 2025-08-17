@@ -18,7 +18,7 @@
 It started as a simple personal config, but has grown into a collection of themes, tools, and components - all aiming for a clean look, smooth feel, and easy customization.
 
 This is the **central hub** for all Noctalia projects.  
-If you’re looking for the actual quickshell setup, check out [**Noctalia**](https://github.com/noctalia-dev/noctalia-shell).
+If you’re looking for the actual quickshell setup, check out [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell).
 
 ---
 
@@ -26,7 +26,7 @@ If you’re looking for the actual quickshell setup, check out [**Noctalia**](ht
 
 | Repository | Description |
 |------------|-------------|
-| [**Noctalia**](https://github.com/noctalia-dev/noctalia-shell) | The main Noctalia setup. |
+| [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell) | The main Noctalia setup. |
 
 
 > 💡 New components are added over time. Check back often or watch this repo for updates.
