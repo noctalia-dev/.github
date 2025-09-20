@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://assets.noctalia.dev/noctalia-logo-mini.png" alt="Noctalia Logo" />
+  <img src="https://assets.noctalia.dev/noctalia-logo-256.png" alt="Noctalia Logo" />
 </p>
 
 <p align="center">
