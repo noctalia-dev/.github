@@ -27,7 +27,6 @@ If you’re looking for the actual quickshell setup, check out [**noctalia-shell
 | Repository | Description |
 |------------|-------------|
 | [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell) | The main Noctalia setup. |
-| [**noctalia-greet**](https://github.com/noctalia-dev/noctalia-greet) | The Noctalia greeter.    |
 
 
 > 💡 New components are added over time. Check back often or watch this repo for updates.
