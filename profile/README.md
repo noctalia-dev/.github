@@ -27,6 +27,7 @@ If you’re looking for the actual quickshell setup, check out [**noctalia-shell
 | Repository | Description |
 |------------|-------------|
 | [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell) | The main Noctalia setup. |
+| [**noctalia-colorschemes**](https://github.com/noctalia-dev/noctalia-colorschemes) | This is where all (optional) color schemes are fetched from.
 
 
 > 💡 New components are added over time. Check back often or watch this repo for updates.
