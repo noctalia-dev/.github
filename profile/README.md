@@ -29,7 +29,7 @@ If you’re looking for the actual quickshell setup, check out [**noctalia-shell
 | [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell) | The main Noctalia setup. |
 | [**noctalia-colorschemes**](https://github.com/noctalia-dev/noctalia-colorschemes) | This is where all (optional) color schemes are fetched from.
 | [**noctalia-plugins**](https://github.com/noctalia-dev/noctalia-plugins) | Noctalia Plugins Registry.
-| [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | The main Noctalia website with documentation and more. |
+| [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | Noctalia's website with documentation and more. |
 
 
 
