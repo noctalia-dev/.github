@@ -9,7 +9,7 @@
 </p>
 
 
-# The effortless quickshell suite, quiet by design. Crafted for Niri and Hyprland.
+# The effortless quickshell suite, quiet by design. Crafted for Wayland.
 
 
 ## Overview
