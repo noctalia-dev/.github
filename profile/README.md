@@ -41,5 +41,4 @@ If you’re looking for the actual quickshell setup, check out [**noctalia-shell
 
 | Repository | Description |
 |------------|-------------|
-| **theme** | Color schemes, wallpapers, icons, and UI styles. |
 | **tools** | CLI tools, utilities, and setup scripts. |
