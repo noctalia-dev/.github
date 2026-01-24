@@ -11,18 +11,16 @@
 
 # The effortless quickshell suite, quiet by design. Crafted for Wayland.
 
-
-## Overview
 Elevate your desktop with **Noctalia**: a Quickshell-powered environment where fluid motion meets clinical precision. From custom components to curated themes, it’s built to look stunning and stay out of your way.
 
 https://github.com/user-attachments/assets/bf46f233-8d66-439a-a1ae-ab0446270f2d
 
-This is the **central hub** for all Noctalia projects.  
-If you’re looking for the actual shell setup, check out [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell).
-
 ---
 
 ## Projects
+
+This is the **central hub** for all Noctalia projects.  
+If you’re looking for the actual shell setup, check out [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell).
 
 | Repository | Description |
 |------------|-------------|
@@ -31,14 +29,15 @@ If you’re looking for the actual shell setup, check out [**noctalia-shell**](h
 | [**noctalia-plugins**](https://github.com/noctalia-dev/noctalia-plugins) | Noctalia Plugins Registry.
 | [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | Noctalia's website with documentation and more. |
 
-
-
 > 💡 New components are added over time. Check back often or watch this repo for updates.
 
 ---
 
-## Planned
-
-| Repository | Description |
-|------------|-------------|
-| **tools** | CLI tools, utilities, and setup scripts. |
+<p align="center">
+  <a href="https://docs.noctalia.dev">
+    <img src="https://img.shields.io/badge/docs-A8AEFF?style=for-the-badge&logo=gitbook&logoColor=FFFFFF&labelColor=0C0D11" alt="Documentation" />
+  </a>
+  <a href="https://discord.noctalia.dev">
+    <img src="https://img.shields.io/badge/discord-A8AEFF?style=for-the-badge&labelColor=0C0D11&logo=discord&logoColor=FFFFFF" alt="Discord" />
+  </a>
+</p>
