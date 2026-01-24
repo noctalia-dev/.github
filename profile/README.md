@@ -13,12 +13,12 @@
 
 
 ## Overview
+Elevate your desktop with **Noctalia**: a Quickshell-powered environment where fluid motion meets clinical precision. From custom components to curated themes, it’s built to look stunning and stay out of your way.
 
-**Noctalia** is a Wayland shell setup built on Quickshell.
-It started as a simple personal config, but has grown into a collection of themes, tools, and components - all aiming for a clean look, smooth feel, and easy customization.
+https://github.com/user-attachments/assets/bf46f233-8d66-439a-a1ae-ab0446270f2d
 
 This is the **central hub** for all Noctalia projects.  
-If you’re looking for the actual quickshell setup, check out [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell).
+If you’re looking for the actual shell setup, check out [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell).
 
 ---
 
