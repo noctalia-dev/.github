@@ -26,8 +26,8 @@ If you’re looking for the actual shell setup, check out [**noctalia-shell**](h
 |------------|-------------|
 | [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell) | The main Noctalia setup. |
 | [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | Noctalia's website with documentation and more. |
-| [**community-palettes**](https://github.com/noctalia-dev/community-palettes) | This is where all extra color palettes are fetched from.
-| [**noctalia-plugins**](https://github.com/noctalia-dev/noctalia-plugins) | Noctalia Plugins Registry.
+| [**community-palettes**](https://github.com/noctalia-dev/community-palettes) | This is where all extra color palettes are fetched from. |
+| [**noctalia-plugins**](https://github.com/noctalia-dev/noctalia-plugins) | Noctalia Plugins Registry for Noctalia shell v4. |
 
 
 > 💡 New components are added over time. Check back often or watch this repo for updates.
