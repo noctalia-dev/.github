@@ -9,9 +9,9 @@
 </p>
 
 
-# The effortless quickshell suite, quiet by design. Crafted for Wayland.
+# A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
-Elevate your desktop with **Noctalia**: a Quickshell-powered environment where fluid motion meets clinical precision. From custom components to curated themes, it’s built to look stunning and stay out of your way.
+Noctalia is a native Wayland desktop shell for people who want a polished, configurable Linux desktop without stitching together a separate bar, launcher, notification daemon, lock screen, wallpaper tool, and settings UI.
 
 https://github.com/user-attachments/assets/bf46f233-8d66-439a-a1ae-ab0446270f2d
 
@@ -20,15 +20,16 @@ https://github.com/user-attachments/assets/bf46f233-8d66-439a-a1ae-ab0446270f2d
 ## Projects
 
 This is the **central hub** for all Noctalia projects.  
-If you’re looking for the actual shell setup, check out [**noctalia-shell**](https://github.com/noctalia-dev/noctalia-shell).
+If you’re looking for the actual shell setup, check out [**noctalia**](https://github.com/noctalia-dev/noctalia).
 
 | Repository | Description |
 |------------|-------------|
 | [**noctalia**](https://github.com/noctalia-dev/noctalia) | The main Noctalia setup. |
-| [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | Noctalia's website with documentation and more. |
-| [**community-palettes**](https://github.com/noctalia-dev/community-palettes) | This is where all extra color palettes are fetched from. |
-| [**noctalia-plugins**](https://github.com/noctalia-dev/noctalia-plugins) | Noctalia Plugins Registry for Noctalia shell v4. |
-
+| [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | Noctalia's documentation website. |
+| [**community-palettes**](https://github.com/noctalia-dev/community-palettes) | Extra color palettes contributed by the community. |
+| [**community-templates**](https://github.com/noctalia-dev/community-templates) | Extra templates contributed by the community. |
+| [**official-plugins**](https://github.com/noctalia-dev/official-plugins) | Noctalia's Official Plugins Registry. |
+| [**noctalia-greeter**](https://github.com/noctalia-dev/noctalia-greeter) |  Noctalia's Greeter / Display manager. |
 
 > 💡 New components are added over time. Check back often or watch this repo for updates.
 
