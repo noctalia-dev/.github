@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://assets.noctalia.dev/noctalia-logo.svg?v=2" alt="Noctalia Logo" style="width: 192px" />
+  <a href="https://noctalia.dev"><img src="https://assets.noctalia.dev/noctalia-logo.svg?v=2" alt="Noctalia Logo" style="width: 192px" /></a>
 </p>
 
 <p align="center">
@@ -13,7 +13,15 @@
 
 Noctalia is a native Wayland desktop shell for people who want a polished, configurable Linux desktop without stitching together a separate bar, launcher, notification daemon, lock screen, wallpaper tool, and settings UI.
 
-https://github.com/user-attachments/assets/bf46f233-8d66-439a-a1ae-ab0446270f2d
+ <p align="center">
+   <a href="https://noctalia.dev">
+     <img
+       src="https://noctalia.dev/github-showcase.webp?v=1"
+       alt="Community Noctalia desktop configurations"
+       width="960"
+     />
+   </a>
+ </p>
 
 ---
 
