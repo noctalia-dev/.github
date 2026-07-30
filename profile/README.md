@@ -26,10 +26,11 @@ If you’re looking for the actual shell setup, check out [**noctalia**](https:/
 |------------|-------------|
 | [**noctalia**](https://github.com/noctalia-dev/noctalia) | The main Noctalia setup. |
 | [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | Noctalia's documentation website. |
-| [**community-palettes**](https://github.com/noctalia-dev/community-palettes) | Extra color palettes contributed by the community. |
-| [**community-templates**](https://github.com/noctalia-dev/community-templates) | Extra templates contributed by the community. |
 | [**official-plugins**](https://github.com/noctalia-dev/official-plugins) | Noctalia's Official Plugins Registry. |
 | [**noctalia-greeter**](https://github.com/noctalia-dev/noctalia-greeter) |  Noctalia's Greeter / Display manager. |
+| [**community-palettes**](https://github.com/noctalia-dev/community-palettes) | Extra color palettes contributed by the community. |
+| [**community-templates**](https://github.com/noctalia-dev/community-templates) | Extra templates contributed by the community. |
+| [**community-plugins**](https://github.com/noctalia-dev/community-plugins) | Extra plugins contributed by the community. |
 
 > 💡 New components are added over time. Check back often or watch this repo for updates.
 
