@@ -9,7 +9,7 @@
 </p>
 
 
-# A sleek, customizable desktop shell crafted crafted for Wayland.
+# A sleek, customizable desktop shell crafted for Wayland.
 
 Noctalia is a native Wayland desktop shell for people who want a polished, configurable Linux desktop without stitching together a separate bar, launcher, notification daemon, lock screen, wallpaper tool, and settings UI.
 
