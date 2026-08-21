@@ -9,9 +9,9 @@
 </p>
 
 
-# A sleek, customizable desktop shell crafted crafted for Wayland.
+# A family of native Wayland projects that feel like one desktop.
 
-Noctalia is a native Wayland desktop shell for people who want a polished, configurable Linux desktop without stitching together a separate bar, launcher, notification daemon, lock screen, wallpaper tool, and settings UI.
+A desktop shell, a compositor, and a login screen sharing one look, one palette, and one philosophy - each tunable to match your setup..
 
  <p align="center">
    <a href="https://noctalia.dev">
@@ -27,20 +27,28 @@ Noctalia is a native Wayland desktop shell for people who want a polished, confi
 
 ## Projects
 
-This is the **central hub** for all Noctalia projects.  
-If you’re looking for the actual shell setup, check out [**noctalia**](https://github.com/noctalia-dev/noctalia).
+This is the **central hub** for all Noctalia projects. If you’re looking for the actual shell setup, check out [**noctalia**](https://github.com/noctalia-dev/noctalia).
 
 | Repository | Description |
 |------------|-------------|
-| [**noctalia**](https://github.com/noctalia-dev/noctalia) | The main Noctalia setup. |
 | [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | Noctalia's documentation website. |
-| [**official-plugins**](https://github.com/noctalia-dev/official-plugins) | Noctalia's Official Plugins Registry. |
+| [**noctalia**](https://github.com/noctalia-dev/noctalia) | Noctalia Desktop Shell. |
+| [**umbriel**](https://github.com/noctalia-dev/umbriel) | Umbriel wayland compositor. |
+| [**umbriel desktop portal**](https://github.com/noctalia-dev/xdg-desktop-portal-umbriel) | Umbriel's xdg-desktop-portal. |
 | [**noctalia-greeter**](https://github.com/noctalia-dev/noctalia-greeter) |  Noctalia's Greeter / Display manager. |
+| [**official-plugins**](https://github.com/noctalia-dev/official-plugins) | Noctalia's Official Plugins Registry. |
+
+> 💡 New components are added over time. Check back often or watch this repo for updates.
+
+
+## Community repositories
+
+| Repo | Description |
+|------------|-------------|
 | [**community-palettes**](https://github.com/noctalia-dev/community-palettes) | Extra color palettes contributed by the community. |
 | [**community-templates**](https://github.com/noctalia-dev/community-templates) | Extra templates contributed by the community. |
 | [**community-plugins**](https://github.com/noctalia-dev/community-plugins) | Extra plugins contributed by the community. |
 
-> 💡 New components are added over time. Check back often or watch this repo for updates.
 
 ---
 
