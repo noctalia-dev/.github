@@ -31,12 +31,12 @@ This is the **central hub** for all Noctalia projects. If you’re looking for t
 
 | Repository | Description |
 |------------|-------------|
-| [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | Noctalia's documentation website. |
 | [**noctalia**](https://github.com/noctalia-dev/noctalia) | Noctalia Desktop Shell. |
 | [**umbriel**](https://github.com/noctalia-dev/umbriel) | Umbriel wayland compositor. |
 | [**umbriel desktop portal**](https://github.com/noctalia-dev/xdg-desktop-portal-umbriel) | Umbriel's xdg-desktop-portal. |
 | [**noctalia-greeter**](https://github.com/noctalia-dev/noctalia-greeter) |  Noctalia's Greeter / Display manager. |
 | [**official-plugins**](https://github.com/noctalia-dev/official-plugins) | Noctalia's Official Plugins Registry. |
+| [**noctalia-docs**](https://github.com/noctalia-dev/noctalia-docs) | Noctalia's documentation website. |
 
 > 💡 New components are added over time. Check back often or watch this repo for updates.
 
