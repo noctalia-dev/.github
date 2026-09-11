@@ -48,6 +48,7 @@ This is the **central hub** for all Noctalia projects. If you’re looking for t
 | [**community-palettes**](https://github.com/noctalia-dev/community-palettes) | Extra color palettes contributed by the community. |
 | [**community-templates**](https://github.com/noctalia-dev/community-templates) | Extra templates contributed by the community. |
 | [**community-plugins**](https://github.com/noctalia-dev/community-plugins) | Extra plugins contributed by the community. |
+| [**community-umbriel-shaders**](https://github.com/noctalia-dev/community-umbriel-shaders) | Shaders contributed by the community. |
 
 
 ---
